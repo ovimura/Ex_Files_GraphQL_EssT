@@ -1,5 +1,6 @@
 // Doc ref: https://github.com/graphql/express-graphql
 // https://www.linkedin.com/learning/graphql-essential-training/the-initial-graphql-setup?autoSkip=true&autoplay=true&resume=false
+// https://github.com/graphql/express-graphql
 
 import express from 'express';
 import schema from './schema';
